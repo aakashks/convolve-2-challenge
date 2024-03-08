@@ -1,2 +1,3 @@
-# kaggle-notebooks
-My Data Analysis Notebooks
+# Data Science Notebooks
+
+EDA, FE, etc. things
